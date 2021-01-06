@@ -316,7 +316,7 @@
 
 <div class="cntr">
 
-    <h2 class="sentence2"><a href="/"><img src="/img/C.png" alt="pizza house logo" width=11% height=11%></a> - Menu</h2>
+    <a href="/" class="sentence2"><img src="/img/C.png" alt="pizza house logo" width=11% height=11%></a>
     <img src="/img2/1.png" width="100%" height="100%" alt="" class="responsive-img "/>
     <img src="/img2/2.png" width="100%" height="100%" alt="" class="responsive-img "/>
     <img src="/img2/3.png" width="100%" height="100%" alt="" class="responsive-img "/>
