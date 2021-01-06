@@ -43,5 +43,13 @@
             @yield('content')
         </main>
     </div>
+    
+    
+    <footer >
+  <div>
+    Copyright &copy; 2020 Y.X. P2
+  </div>
+      </footer>
+      
 </body>
 </html>
